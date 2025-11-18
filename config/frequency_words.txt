@@ -70,6 +70,10 @@ chatgpt
 openai
 sora
 
+kimi
+qwen
+glm
+
 claude
 Anthropic
 
