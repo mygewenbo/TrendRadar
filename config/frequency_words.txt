@@ -70,6 +70,10 @@ chatgpt
 openai
 sora
 
+kimi
+qwen
+glm
+
 claude
 Anthropic
 
@@ -81,6 +85,8 @@ ios
 ai
 !gai
 人工智能
+
+大模型
 
 自动驾驶
 
